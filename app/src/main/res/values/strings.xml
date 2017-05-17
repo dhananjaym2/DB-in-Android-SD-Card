@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DB-in-Android-SD-Card</string>
+
+    <!-- Strings related to name insert -->
+    <string name="prompt_Name">Name</string>
+    <string name="Enter_name">Please enter a name.</string>
+    <string name="InsertInDB">Insert In DB</string>
+    <string name="Names_list_is_empty_in_DB">Names list is empty in DB.</string>
+    <string name="LoadingProgressDialog">Loading&#8230;</string>
+    <string name="Error_while_inserting_new_row_in_DB">Error while inserting new row in DB.</string>
+</resources>
